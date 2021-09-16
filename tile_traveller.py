@@ -1,7 +1,4 @@
 
-from types import WrapperDescriptorType
-
-
 N = North
 W = West
 S = South
